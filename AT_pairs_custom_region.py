@@ -13,10 +13,10 @@ import statistics
 import numpy
 import re
 
-import six
-import packaging
-import packaging.version
-import packaging.specifiers
+#import six
+#import packaging
+#import packaging.version
+#import packaging.specifiers
 
 
 # opening fasta file as DNA sequence
